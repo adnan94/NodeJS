@@ -1,5 +1,5 @@
-#Node Js ka CMD REPL [Read , Eval , Print , Loop]
-#Node Js is javascript running on server.
+\nNode Js ka CMD REPL [Read , Eval , Print , Loop]
+\nNode Js is javascript running on server.
 #Terminal Editor [node.editor,write code,ctrl+d,.exit]
 #Variable
 #Loops
