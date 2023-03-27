@@ -17,3 +17,4 @@ console.log(`Api status code is ${code} and is running ${status}`)
 
 event.emit("sayMyName","Adnan","Ahmed");
 event.emit("checkMyApi",200,"ok")
+ 
