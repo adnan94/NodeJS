@@ -11,8 +11,7 @@
 </br>> Module wrapper functions 
 </br>> nodemon [ use for continous changes in terminal ] nodemon index.js to exit ctrl + c
 </br>> Event Module 
-</br>> Stream Data 
-</br>> NodeMail 
+</br>> Stream Data
 
 
 
